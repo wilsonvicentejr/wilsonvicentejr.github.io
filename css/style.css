@@ -1,0 +1,42 @@
+html,body{height:100%;width:100%;padding:0;margin:0}
+body{font-family:'Teko',sans-serif;font-size:18px; overflow: hidden}
+.desc-box p{text-align:left}
+p{color:#64707b;font-weight:200}
+a{color:#33FF33}
+a:hover{text-decoration:none;color:#33FF33}
+#home{height:100%}
+#home-cover{height:100%;background:#1b2836}
+#home-content-box{width:100%;height:100%;display:table}
+#home-content-box-inner{display:table-cell;vertical-align:middle}
+#home-heading h1{color:#fff;font-size:6.3rem;font-family:'Kanit',sans-serif;margin:20px 0 10px;text-shadow:1px 1px 6px #1e1e35}
+#home-heading h2{color:#fff;font-size:2.1rem;font-family:'VT323',sans-serif;margin:5px 0 20px;padding:0 10px;line-height:32px;text-shadow:1px 1px 6px #1e1e35}
+#home-icons{font-size:4.3rem;text-shadow:1px 1px 6px #1e1e35}
+#home-icons i{padding:12px}
+#home #home-icons i:hover{color:#33FF33;transition:.5s}
+#home-icons a{color:#fff}
+#home-heading h1{animation-delay:.1s;animation-duration:3s}
+#home-heading h2{animation-delay:.2s;animation-duration:3s}
+h3{text-transform:uppercase;color:#41464b}
+#home-icons{animation-delay:.3s;animation-duration:3s}
+.content-box{padding:50px 0}
+.content-title h3{font-size:2.6rem;text-align:center;font-weight:700;margin:0 0 30px}
+.content-title-underline{width:30px;height:3px;background-color:#1da1eb;margin:0 auto}
+.about-desc{padding-top:20px;font-size:2rem;padding-bottom:55px}
+.about-item{padding:20px 0 20px 10px;margin-bottom:30px;cursor:pointer}
+.about-item-icon{color:#1da1eb;float:left;padding:3px;margin:0 25px 0 0;padding-left:0;height:75px;text-align:center}
+.about-item-title h3{font-size:2rem;font-weight:400;margin:0 0 10px}
+.btn{margin:6px 3px}
+.btn-visit{text-align:center;margin:auto;max-width:80px}
+.btn-blue{border-color:#1da1eb;color:#1da1eb}
+.btn-blue a{margin:auto;font-weight:400;font-size:18px;color:#1da1eb;text-decoration:none;padding:5px}
+.btn-github{border-color:#1da1eb}
+.btn-github a{text-decoration:none;font-size:18px;color:#1da1eb}
+.work-date{padding-top:12px;font-weight:600}
+.work-desc{padding-bottom:12px}
+#design,#projects{padding-bottom:53px}
+.text-project{padding-right:0}
+footer{background:#1b2836}
+.footer-cont{padding-top:40px;padding-bottom:25px}
+.footer-contact i{display:block;font-size:1.8rem;padding-bottom:8px;color:#fff}
+.footer-contact a{text-decoration:none}
+.footer-copyright{font-size:1.5rem;color:#fff;padding-top:11px}

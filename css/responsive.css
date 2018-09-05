@@ -1,0 +1,22 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    #projects .col-md-3{width:35%}
+    }
+    @media (min-width: 768px) and (max-width:991px) {
+    .about-desc{padding:35Spx}
+    }
+    @media (max-width: 767px) {
+    .about-desc{margin:35px}
+    p{font-size:18px}
+    #projects .content-box{padding:10px;margin:30px}
+    #home-heading h1{font-size:8rem}
+    #home-heading h2{font-size:1.8rem}
+    }
+    @media (max-width: 480px) {
+    #home-heading h1{font-size:6rem}
+    #home-heading h2{font-size:1.5rem}
+    #home-icons{font-size:3.3rem}
+    .about-desc p{font-size:16px}
+    }
+    @media (max-width: 320px) {
+    #home-icons{font-size:2.5rem}
+    }
